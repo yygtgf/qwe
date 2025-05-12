@@ -105,7 +105,7 @@
      {"key":"*91麻豆","name":"91麻豆","type":0,"api":"http://wuxu.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*葡萄源","name":"葡萄源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"*雪豹源","name":"雪豹源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
-    {"key":"豆豆","name":"豆豆","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"豆豆","name":"豆豆","type":1,"api":"http://wuxu.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"丝袜源","name":"丝袜源","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"色逼","name":"色逼1","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"橘猫","name":"橘猫1","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
@@ -133,7 +133,7 @@
 
      {"key": "探探资源","name": "🔞探探资源","type": 1,"api": "https://www.bt4.cc/api.php/provide/vod/from/m3u8","searchable": 0,"quickSearch": 0},
      {"key": "天美","name": "天美","type": 1,"api": "https://www.bt4.cc/api.php/provide/vod/from/clm3u8","searchable": 0,"quickSearch": 0},
-     {"key": "🔞麻豆","name": "🔞麻豆","type": 1,"api": "https://tmyy.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
+     {"key": "🔞麻豆","name": "🔞麻豆","type": 1,"api": "https://tmyy.cc/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
      {"key":"*速度资源","name":"🔞速度资源","type":0,"api":"http://hsck4.cctv23.cc/api.php/provide/vod/from/clm3u8","searchable":0,"quickSearch":0},
      {"key": "花魁资源","name": "🔞花魁资源","type": 1,"api": "http://hsck4.cctv23.cc/api.php/provide/vod/from/m3u8","searchable": 0,"quickSearch": 0},
      {"key":"*乐播资源","name":"🔞乐播资源","type":1,"api":"http://hsck4.cctv23.cc/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0},
