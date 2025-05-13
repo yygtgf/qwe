@@ -55,7 +55,7 @@
       "key":"3",
       "name":"成3",
       "type":0,
-      "api":"http://www.cctv666.com/api.php/provide/vod/from/clm3u8",
+      "api":"https://www.caoliuzyw.com/api.php/provide/vod/at/xml/",
       "searchable":0,
       "quickSearch":0
     },
@@ -474,7 +474,17 @@
       "url": "https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="
     },
     {
+      "name": "解析3",
+      "type": 1,
+      "url": "https://jx.caoliuzywcdnjx.com:188/m3u8.php?url="
+    },
+    {
       "name": "嗅探0",
+      "type": 0,
+      "url": "https://vip.fkpzw.com/player/?url="
+    },
+    {
+      "name": "嗅探01",
       "type": 0,
       "url": "https://vip.fkpzw.com/player/?url="
     },
